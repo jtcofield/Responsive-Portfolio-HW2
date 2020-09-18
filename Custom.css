@@ -4,7 +4,7 @@
 }
 
 .footer {
-    position: fixed;
+    position: relative;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -13,4 +13,9 @@
     color: white;
     text-align: center;
     border-top: solid rgb(45, 141, 145) 5px;
+}
+
+body {
+    background-color: lightgrey 
+    
 }
