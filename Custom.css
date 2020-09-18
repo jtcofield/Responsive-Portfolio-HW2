@@ -2,3 +2,15 @@
     float: left;
     margin-right: 25px;
 }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 15px;
+    background-color: rgb(92, 92, 92);
+    color: white;
+    text-align: center;
+    border-top: solid rgb(45, 141, 145) 5px;
+}
